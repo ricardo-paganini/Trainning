@@ -1,3 +1,2 @@
 # Exercícios em Python
-
-Aqui ficarão disponibilizados todos os exercícios em Python relaizados durante o meu processo de aprendizado.
+Aqui ficarão disponibilizados todos os exercícios em Python realizados durante o meu processo de aprendizado.
