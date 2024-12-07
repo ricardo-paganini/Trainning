@@ -16,3 +16,15 @@ Crie um programa que verifica se uma letra digitada pelo usuário é vogal ou co
 
 [Exercício4](exercicio4.py)
 Crie um programa que verifique se um ano é bissexto ou não.
+
+[Exercício5](exercicio5.py)
+Crie um program a que, a partir da idade digitada pelo usuário, verifique se ele é maior de idade ou não.
+
+[Exercício6](exercicio6.py)
+Crie um programa que verifique se um texto digitado pelo usuário é um palíndromo ou não.
+
+[Exercício7](exercicio7.py)
+Crie um programa que verifique se um texto digitado pelo usuário é um número inteiro ou não.
+
+[Exercício8](exercicio8.py)
+Crie um programa que verifique se um texto digitado pelo usuário corresponde a uma data no formato dd/mm/aaa.
