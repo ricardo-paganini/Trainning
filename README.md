@@ -52,3 +52,18 @@ Crie um programa que verifique se a pessoa pode ou não votar, considerando a su
 [Exercício12](exercicio12.py)  
 
 Crie um programa que verifique se uma pessoa é elegível à aposentadoria. O usuário deve digitar a idade e o gênero. Lembrando que mulheres se aposentam com 60 anos ou mais e homens com 65 anos ou mais.
+
+[Exercício13](exercicio13.py)  
+
+Crie um programa que verifica se o número inteiro digitado pelo usuário é divisível por outro também digitado pelo usuário.
+
+[Exercício14](exercicio14.py)  
+
+Crie um programa que pergunte ao usuário o salário e exiba uma mensagem de Alto salário caso ele ultrapasse R$ 10.000,00 ou Baixo salário caso contrário.
+
+[Exercício14](exercicio14.py)  
+
+Crie um programa que calcule o IMC de um usuário baseado na sua altura e peso.
+IMC < 18.5 = IMC normal
+IMC >= 18.5 e IMC <= 24.9 = IMC sobrepeso
+IMC > 29.9 = IMC obesidade
