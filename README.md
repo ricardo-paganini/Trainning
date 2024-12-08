@@ -28,3 +28,15 @@ Crie um programa que verifique se um texto digitado pelo usuário é um número 
 
 [Exercício8](exercicio8.py)
 Crie um programa que verifique se um texto digitado pelo usuário corresponde a uma data no formato dd/mm/aaa.
+
+[Exercício9](exercicio9.py)
+Crie um programa que calcule a média entre 3 números e exiba a mensagem APROVADO se a média for >= a 6.0 ou REPROVADO caso contrário. Se a média for 10.0 exiba também a mensagem Parabéns!
+
+[Exercício10](exercicio10.py)
+Crie um programa que verifique se uma temperatura corporal digitada pelo usuário está acima, abaixo ou dentro da faixa de 36ᵒC a 37ᵒC.
+
+[Exercício11](exercicio11.py)
+Crie um programa que verifique se a pessoa pode ou não votar, considerando a sua idade e sua nacionalidade (16 anos ou mais e ser brasileiro).
+
+[Exercício12](exercicio12.py)
+Crie um programa que verifique se uma pessoa é elegível à aposentadoria. O usuário deve digitar a idade e o gênero. Lembrando que mulheres se aposentam com 60 anos ou mais e homens com 65 anos ou mais.
