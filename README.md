@@ -61,9 +61,13 @@ Crie um programa que verifica se o número inteiro digitado pelo usuário é div
 
 Crie um programa que pergunte ao usuário o salário e exiba uma mensagem de Alto salário caso ele ultrapasse R$ 10.000,00 ou Baixo salário caso contrário.
 
-[Exercício14](exercicio14.py)  
+[Exercício15](exercicio15.py)  
 
 Crie um programa que calcule o IMC de um usuário baseado na sua altura e peso.
 IMC < 18.5 = IMC normal
 IMC >= 18.5 e IMC <= 24.9 = IMC sobrepeso
 IMC > 29.9 = IMC obesidade
+
+[Exercício16](exercicio16.py)
+
+Crie um programa que peça ao usuário para inserir 2 números e uma operação aritmética (+,-.*,/). Em seguida imprima o resultado de acordo com a operação escolhida.
