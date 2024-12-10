@@ -71,3 +71,14 @@ IMC > 29.9 = IMC obesidade
 [Exercício16](exercicio16.py)
 
 Crie um programa que peça ao usuário para inserir 2 números e uma operação aritmética (+,-.*,/). Em seguida imprima o resultado de acordo com a operação escolhida.
+
+
+### Estruturas de Repetição
+
+[Exercício17](exercicio17.py)
+
+Crie um programa que receba vários números positivos digitados pela usuário, até que ele digite um valor negativo. O programa deve mostrar a média dos números positivos digitados.
+
+[Exercício18](exercicio18.py)
+
+Crie um programa que calcule e mostre o fatorial de um número digitado pelo usuário.
